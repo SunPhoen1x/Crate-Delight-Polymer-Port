@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": "minecraft:golden_carrot"
+  },
+  "pattern": [
+    "SSS",
+    "SSS",
+    "SSS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cratedelight-port:golden_carrot_crate"
+  }
+}

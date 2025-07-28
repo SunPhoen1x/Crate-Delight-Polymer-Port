@@ -1,0 +1,53 @@
+{
+  "block.cratedelight-port.apple_crate": "Äppelkrat",
+  "block.cratedelight-port.berry_crate": "Bärkrat",
+  "block.cratedelight-port.glowberry_crate": "Lysande Bärkrat",
+  "block.cratedelight-port.egg_crate": "Äggkrat",
+  "block.cratedelight-port.salmon_crate": "Låda med rå lax",
+  "block.cratedelight-port.cod_crate": "Låda med rå torsk",
+  "block.cratedelight-port.cocoabeans_bag": "Påse med Kakaobönor",
+  "block.cratedelight-port.sugar_bag": "Påse med Socker",
+  "block.cratedelight-port.salt_bag": "Påse med Salt",
+  "block.cratedelight-port.gunpowder_bag": "Påse med Krut",
+  "block.cratedelight-port.ground_cinnamon_bag": "Påse med Malt Kanel",
+  "block.cratedelight-port.golden_apple_crate": "Gyllene Äppelkrat",
+
+  "block.cratedelight-port.end_fish_crate": "Rå Endfisklåda",
+  "block.cratedelight-port.duck_egg_crate": "Ankäggslåda",
+  "block.cratedelight-port.catfish_crate": "Rå Kattfisklåda",
+  "block.cratedelight-port.bass_crate": "Rå Abborrlåda",
+  "block.cratedelight-port.peanut_crate": "Jordnötslåda",
+  "block.cratedelight-port.wheat_flour_bag": "Vetemjölsäck",
+  "block.cratedelight-port.ender_dust_bag": "Enderdammsäck",
+  "block.cratedelight-port.powdered_obsidian_bag": "Pulveriserad Obsidiansäck",
+  "block.cratedelight-port.cinder_flour_bag": "Askmjölsäck",
+  "block.cratedelight-port.blueberry_crate": "Blåbärslåda",
+  "block.cratedelight-port.red_mushroom_crate": "Röd Svamp Låda",
+  "block.cratedelight-port.brown_mushroom_crate": "Brun Svamp Låda",
+
+  "block.cratedelight-port.emu_egg_crate": "Emuägglåda",
+  "block.cratedelight-port.terrapin_egg_crate": "Sköldpaddsäggröda",
+  "block.cratedelight-port.crocodile_egg_crate": "Krokodilägglåda",
+  "block.cratedelight-port.caiman_egg_crate": "Kajmanägglåda",
+  "block.cratedelight-port.platypus_egg_crate": "Näbbdjurägglåda",
+  "block.cratedelight-port.banana_crate": "Bananlåda",
+  "block.cratedelight-port.golden_carrot_crate": "Guldmorotslåda",
+  "block.cratedelight-port.kiwi_egg_crate": "Kiwiäggslåda",
+  "block.cratedelight-port.kiwifruit_crate": "Kiwifruktslåda",
+
+  "block.cratedelight-port.carrot_crate": "Morotslåda",
+  "block.cratedelight-port.potato_crate": "Potatislåda",
+  "block.cratedelight-port.beetroot_crate": "Rödbetslåda",
+
+  "block.cratedelight-port.black_berry_crate": "Svartbärslåda",
+  "block.cratedelight-port.green_berry_crate": "Grönbärslåda",
+  "block.cratedelight-port.orange_berry_crate": "Orangebärslåda",
+  "block.cratedelight-port.yellow_berry_crate": "Gulbärslåda",
+  "block.cratedelight-port.purple_berry_crate": "Lila bärslåda",
+
+  "block.cratedelight-port.cookie_bag": "Kakpåse",
+
+  "block.cratedelight-port.diamond_apple_crate": "Låda med Diamantäpplen",
+
+  "itemGroup.cratedelight-port": "Crate Delight"
+}

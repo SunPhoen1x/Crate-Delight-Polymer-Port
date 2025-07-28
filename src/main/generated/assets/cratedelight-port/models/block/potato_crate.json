@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "cratedelight-port:block/crate_bottom",
+    "east": "cratedelight-port:block/potato_crate_side",
+    "north": "cratedelight-port:block/potato_crate_side",
+    "particle": "cratedelight-port:block/potato_crate_side",
+    "south": "cratedelight-port:block/potato_crate_side",
+    "up": "cratedelight-port:block/potato_crate_top",
+    "west": "cratedelight-port:block/potato_crate_side"
+  }
+}

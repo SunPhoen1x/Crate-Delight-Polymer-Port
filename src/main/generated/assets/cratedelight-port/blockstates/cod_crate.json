@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "cratedelight-port:block/cod_crate"
+    }
+  }
+}

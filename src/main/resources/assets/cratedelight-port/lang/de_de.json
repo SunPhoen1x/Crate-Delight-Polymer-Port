@@ -1,0 +1,53 @@
+{
+  "block.cratedelight-port.apple_crate": "Apfelkiste",
+  "block.cratedelight-port.berry_crate": "Beerenkiste",
+  "block.cratedelight-port.glowberry_crate": "Glühende Beerenkiste",
+  "block.cratedelight-port.egg_crate": "Eierkiste",
+  "block.cratedelight-port.salmon_crate": "Rohlachs-Kiste",
+  "block.cratedelight-port.cod_crate": "Rohdorsch-Kiste",
+  "block.cratedelight-port.cocoabeans_bag": "Kakaobohnensack",
+  "block.cratedelight-port.sugar_bag": "Zuckersack",
+  "block.cratedelight-port.salt_bag": "Sack Salz",
+  "block.cratedelight-port.gunpowder_bag": "Beutel Schießpulver",
+  "block.cratedelight-port.ground_cinnamon_bag": "Beutel gemahlener Zimt",
+  "block.cratedelight-port.golden_apple_crate": "Goldener Apfelkasten",
+
+  "block.cratedelight-port.end_fish_crate": "Rohes Endfisch-Kiste",
+  "block.cratedelight-port.duck_egg_crate": "Enteneier-Kiste",
+  "block.cratedelight-port.catfish_crate": "Rohes Wels-Kiste",
+  "block.cratedelight-port.bass_crate": "Rohes Barsch-Kiste",
+  "block.cratedelight-port.peanut_crate": "Erdnuss-Kiste",
+  "block.cratedelight-port.wheat_flour_bag": "Weizenmehl-Tasche",
+  "block.cratedelight-port.ender_dust_bag": "Enderstaub-Tasche",
+  "block.cratedelight-port.powdered_obsidian_bag": "Pulverisiertes Obsidian-Tasche",
+  "block.cratedelight-port.cinder_flour_bag": "Aschmehl-Tasche",
+  "block.cratedelight-port.blueberry_crate": "Blaubeerkiste",
+  "block.cratedelight-port.red_mushroom_crate": "Rote Pilz-Kiste",
+  "block.cratedelight-port.brown_mushroom_crate": "Braune Pilz-Kiste",
+
+  "block.cratedelight-port.emu_egg_crate": "Emu-Eikiste",
+  "block.cratedelight-port.terrapin_egg_crate": "Schildkröten-Eikiste",
+  "block.cratedelight-port.crocodile_egg_crate": "Krokodil-Eikiste",
+  "block.cratedelight-port.caiman_egg_crate": "Kaiman-Eikiste",
+  "block.cratedelight-port.platypus_egg_crate": "Schnabeltier-Eikiste",
+  "block.cratedelight-port.banana_crate": "Bananenkiste",
+  "block.cratedelight-port.golden_carrot_crate": "Goldene Karottenkiste",
+  "block.cratedelight-port.kiwi_egg_crate": "Kiwi-Ei-Kiste",
+  "block.cratedelight-port.kiwifruit_crate": "Kiwi-Kiste",
+
+  "block.cratedelight-port.carrot_crate": "Karottenkiste",
+  "block.cratedelight-port.potato_crate": "Kartoffelkiste",
+  "block.cratedelight-port.beetroot_crate": "Rote-Bete-Kiste",
+
+  "block.cratedelight-port.black_berry_crate": "Schwarze Beerenkiste",
+  "block.cratedelight-port.green_berry_crate": "Grüne Beerenkiste",
+  "block.cratedelight-port.orange_berry_crate": "Orangen Beerenkiste",
+  "block.cratedelight-port.yellow_berry_crate": "Gelbe Beerenkiste",
+  "block.cratedelight-port.purple_berry_crate": "Lila Beerenkiste",
+
+  "block.cratedelight-port.cookie_bag": "Kekstasche",
+
+  "block.cratedelight-port.diamond_apple_crate": "Diamant-Apfelkiste",
+
+  "itemGroup.cratedelight-port": "Crate Delight"
+}

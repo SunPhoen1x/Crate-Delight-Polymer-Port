@@ -1,0 +1,53 @@
+{
+  "block.cratedelight-port.apple_crate": "Caixa de Maçãs",
+  "block.cratedelight-port.berry_crate": "Caixa de Frutas Silvestres",
+  "block.cratedelight-port.glowberry_crate": "Caixa de Bagas Luminosas",
+  "block.cratedelight-port.egg_crate": "Caixa de Ovos",
+  "block.cratedelight-port.salmon_crate": "Caixa de Salmão Cru",
+  "block.cratedelight-port.cod_crate": "Caixa de Bacalhau Cru",
+  "block.cratedelight-port.cocoabeans_bag": "Saco de Cacau",
+  "block.cratedelight-port.sugar_bag": "Saco de Açúcar",
+  "block.cratedelight-port.salt_bag": "Saco de Sal",
+  "block.cratedelight-port.gunpowder_bag": "Saco de Pólvora",
+  "block.cratedelight-port.ground_cinnamon_bag": "Saco de Canela Moída",
+  "block.cratedelight-port.golden_apple_crate": "Caixa de Maçã Dourada",
+
+  "block.cratedelight-port.end_fish_crate": "Caixa de Peixe do Fim Cru",
+  "block.cratedelight-port.duck_egg_crate": "Caixa de Ovos de Pato",
+  "block.cratedelight-port.catfish_crate": "Caixa de Peixe-Gato Cru",
+  "block.cratedelight-port.bass_crate": "Caixa de Robalo Cru",
+  "block.cratedelight-port.peanut_crate": "Caixa de Amendoim",
+  "block.cratedelight-port.wheat_flour_bag": "Saco de Farinha de Trigo",
+  "block.cratedelight-port.ender_dust_bag": "Saco de Pó do End",
+  "block.cratedelight-port.powdered_obsidian_bag": "Saco de Pó de Obsidiana",
+  "block.cratedelight-port.cinder_flour_bag": "Saco de Farinha de Cinzas",
+  "block.cratedelight-port.blueberry_crate": "Caixa de Mirtilo",
+  "block.cratedelight-port.red_mushroom_crate": "Caixa de Cogumelos Vermelhos",
+  "block.cratedelight-port.brown_mushroom_crate": "Caixa de Cogumelos Marrons",
+
+  "block.cratedelight-port.emu_egg_crate": "Caixa de ovos de ema",
+  "block.cratedelight-port.terrapin_egg_crate": "Caixa de ovos de tartaruga",
+  "block.cratedelight-port.crocodile_egg_crate": "Caixa de ovos de crocodilo",
+  "block.cratedelight-port.caiman_egg_crate": "Caixa de ovos de jacaré",
+  "block.cratedelight-port.platypus_egg_crate": "Caixa de ovos de ornitorrinco",
+  "block.cratedelight-port.banana_crate": "Caixa de bananas",
+  "block.cratedelight-port.golden_carrot_crate": "Caixa de cenouras douradas",
+  "block.cratedelight-port.kiwi_egg_crate": "Caixa de Ovos de Kiwi",
+  "block.cratedelight-port.kiwifruit_crate": "Caixa de Kiwis",
+
+  "block.cratedelight-port.carrot_crate": "Caixa de cenoura",
+  "block.cratedelight-port.potato_crate": "Caixa de batata",
+  "block.cratedelight-port.beetroot_crate": "Caixa de beterraba",
+
+  "block.cratedelight-port.black_berry_crate": "Caixa de Amoras Pretas",
+  "block.cratedelight-port.green_berry_crate": "Caixa de Amoras Verdes",
+  "block.cratedelight-port.orange_berry_crate": "Caixa de Amoras Laranjas",
+  "block.cratedelight-port.yellow_berry_crate": "Caixa de Amoras Amarelas",
+  "block.cratedelight-port.purple_berry_crate": "Caixa de Amoras Roxas",
+
+  "block.cratedelight-port.cookie_bag": "Saco de Biscoitos",
+
+  "block.cratedelight-port.diamond_apple_crate": "Caixa de Maçãs de Diamante",
+
+  "itemGroup.cratedelight-port": "Crate Delight"
+}

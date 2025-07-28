@@ -1,0 +1,53 @@
+{
+  "block.cratedelight-port.apple_crate": "Apple Crate",
+  "block.cratedelight-port.berry_crate": "Berry Crate",
+  "block.cratedelight-port.glowberry_crate": "Glow Berry Crate",
+  "block.cratedelight-port.egg_crate": "Egg Crate",
+  "block.cratedelight-port.salmon_crate": "Raw Salmon Crate",
+  "block.cratedelight-port.cod_crate": "Raw Cod Crate",
+  "block.cratedelight-port.cocoabeans_bag": "Bag of Cocoa Beans",
+  "block.cratedelight-port.sugar_bag": "Bag of Sugar",
+  "block.cratedelight-port.salt_bag": "Bag of Salt",
+  "block.cratedelight-port.gunpowder_bag": "Bag of Gunpowder",
+  "block.cratedelight-port.ground_cinnamon_bag": "Bag of Ground Cinnamon",
+  "block.cratedelight-port.golden_apple_crate": "Golden Apple Crate",
+
+  "block.cratedelight-port.end_fish_crate": "Raw End Fish Crate",
+  "block.cratedelight-port.duck_egg_crate": "Duck Egg Crate",
+  "block.cratedelight-port.catfish_crate": "Raw Catfish Crate",
+  "block.cratedelight-port.bass_crate": "Raw Bass Crate",
+  "block.cratedelight-port.peanut_crate": "Peanut Crate",
+  "block.cratedelight-port.wheat_flour_bag": "Wheat Flour Bag",
+  "block.cratedelight-port.ender_dust_bag": "Ender Dust Bag",
+  "block.cratedelight-port.powdered_obsidian_bag": "Powdered Obsidian Bag",
+  "block.cratedelight-port.cinder_flour_bag": "Cinder Flour Bag",
+  "block.cratedelight-port.blueberry_crate": "Blueberry Crate",
+  "block.cratedelight-port.red_mushroom_crate": "Red Mushroom Crate",
+  "block.cratedelight-port.brown_mushroom_crate": "Brown Mushroom Crate",
+
+  "block.cratedelight-port.emu_egg_crate": "Emu Egg Crate",
+  "block.cratedelight-port.terrapin_egg_crate": "Terrapin Egg Crate",
+  "block.cratedelight-port.crocodile_egg_crate": "Crocodile Egg Crate",
+  "block.cratedelight-port.caiman_egg_crate": "Caiman Egg Crate",
+  "block.cratedelight-port.platypus_egg_crate": "Platypus Egg Crate",
+  "block.cratedelight-port.banana_crate": "Banana Crate",
+  "block.cratedelight-port.golden_carrot_crate": "Golden Carrot Crate",
+  "block.cratedelight-port.kiwi_egg_crate": "Kiwi Egg Crate",
+  "block.cratedelight-port.kiwifruit_crate": "Kiwifruit Crate",
+
+  "block.cratedelight-port.carrot_crate": "Carrot Crate",
+  "block.cratedelight-port.potato_crate": "Potato Crate",
+  "block.cratedelight-port.beetroot_crate": "Beetroot Crate",
+
+  "block.cratedelight-port.black_berry_crate": "Black Berry Crate",
+  "block.cratedelight-port.green_berry_crate": "Green Berry Crate",
+  "block.cratedelight-port.orange_berry_crate": "Orange Berry Crate",
+  "block.cratedelight-port.yellow_berry_crate": "Yellow Berry Crate",
+  "block.cratedelight-port.purple_berry_crate": "Purple Berry Crate",
+
+  "block.cratedelight-port.cookie_bag": "Cookie Bag",
+
+  "block.cratedelight-port.diamond_apple_crate": "Diamond Apple Crate",
+
+  "itemGroup.cratedelight-port": "Crate Delight"
+}

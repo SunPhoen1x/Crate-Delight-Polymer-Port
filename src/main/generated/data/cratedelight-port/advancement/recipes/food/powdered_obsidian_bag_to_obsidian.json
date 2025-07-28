@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_powdered_obsidian_bag": {
+      "conditions": {
+        "items": [
+          {
+            "items": "cratedelight-port:powdered_obsidian_bag"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "cratedelight-port:powdered_obsidian_bag_to_obsidian"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_powdered_obsidian_bag"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "cratedelight-port:powdered_obsidian_bag_to_obsidian"
+    ]
+  }
+}

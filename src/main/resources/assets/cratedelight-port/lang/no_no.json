@@ -1,0 +1,53 @@
+{
+  "block.cratedelight-port.apple_crate": "Eplekasse",
+  "block.cratedelight-port.berry_crate": "Bærkasse",
+  "block.cratedelight-port.glowberry_crate": "Glødende Bærkasse",
+  "block.cratedelight-port.egg_crate": "Eggkasse",
+  "block.cratedelight-port.salmon_crate": "Kasse med rå laks",
+  "block.cratedelight-port.cod_crate": "Kasse med rå torsk",
+  "block.cratedelight-port.cocoabeans_bag": "Pose med Kakaobønner",
+  "block.cratedelight-port.sugar_bag": "Pose med Sukker",
+  "block.cratedelight-port.salt_bag": "Pose med Salt",
+  "block.cratedelight-port.gunpowder_bag": "Pose med krutt",
+  "block.cratedelight-port.ground_cinnamon_bag": "Pose med Malt Manel",
+  "block.cratedelight-port.golden_apple_crate": "Gull-eplekasse",
+
+  "block.cratedelight-port.end_fish_crate": "Rå Endefiskkasse",
+  "block.cratedelight-port.duck_egg_crate": "Andeeggkasse",
+  "block.cratedelight-port.catfish_crate": "Rå Mallekasse",
+  "block.cratedelight-port.bass_crate": "Rå Gjeddekasse",
+  "block.cratedelight-port.peanut_crate": "Peanøttkasse",
+  "block.cratedelight-port.wheat_flour_bag": "Hvetemelpose",
+  "block.cratedelight-port.ender_dust_bag": "Enderstøvpose",
+  "block.cratedelight-port.powdered_obsidian_bag": "Pulverisert Obsidianpose",
+  "block.cratedelight-port.cinder_flour_bag": "Askeblomsterpose",
+  "block.cratedelight-port.blueberry_crate": "Blåbærkasse",
+  "block.cratedelight-port.red_mushroom_crate": "Rød Soppkasse",
+  "block.cratedelight-port.brown_mushroom_crate": "Brun Soppkasse",
+
+  "block.cratedelight-port.emu_egg_crate": "Emueggkasse",
+  "block.cratedelight-port.terrapin_egg_crate": "Skilpaddeggkasse",
+  "block.cratedelight-port.crocodile_egg_crate": "Krokodilleeggkasse",
+  "block.cratedelight-port.caiman_egg_crate": "Kaimaneggkasse",
+  "block.cratedelight-port.platypus_egg_crate": "Nebbdyrkasse",
+  "block.cratedelight-port.banana_crate": "Bananekasse",
+  "block.cratedelight-port.golden_carrot_crate": "Gylden gulrotkasse",
+  "block.cratedelight-port.kiwi_egg_crate": "Kiwi-eggkasse",
+  "block.cratedelight-port.kiwifruit_crate": "Kiwi-fruktkasse",
+
+  "block.cratedelight-port.carrot_crate": "Gulrotkasse",
+  "block.cratedelight-port.potato_crate": "Potetkasse",
+  "block.cratedelight-port.beetroot_crate": "Rødbetkasse",
+
+  "block.cratedelight-port.black_berry_crate": "Svart bærkasse",
+  "block.cratedelight-port.green_berry_crate": "Grønn bærkasse",
+  "block.cratedelight-port.orange_berry_crate": "Oransje bærkasse",
+  "block.cratedelight-port.yellow_berry_crate": "Gul bærkasse",
+  "block.cratedelight-port.purple_berry_crate": "Lilla bærkasse",
+
+  "block.cratedelight-port.cookie_bag": "Kjeks Pose",
+
+  "block.cratedelight-port.diamond_apple_crate": "Kasse med Diamantepler",
+
+  "itemGroup.cratedelight-port": "Crate Delight"
+}

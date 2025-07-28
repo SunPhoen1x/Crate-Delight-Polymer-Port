@@ -1,0 +1,53 @@
+{
+  "block.cratedelight-port.apple_crate": "Kratego da Pomoj",
+  "block.cratedelight-port.berry_crate": "Bercratego",
+  "block.cratedelight-port.glowberry_crate": "Kratago da Lumberoj",
+  "block.cratedelight-port.egg_crate": "Ovokrato",
+  "block.cratedelight-port.salmon_crate": "Krato kun Kruda Salmanto",
+  "block.cratedelight-port.cod_crate": "Krato kun Kruda Kodo",
+  "block.cratedelight-port.cocoabeans_bag": "Sako da Kakao-Faboj",
+  "block.cratedelight-port.sugar_bag": "Sako da Sukero",
+  "block.cratedelight-port.salt_bag": "Sako da Salo",
+  "block.cratedelight-port.gunpowder_bag": "Sako da Pulvoro",
+  "block.cratedelight-port.ground_cinnamon_bag": "Sako da Terena Cinamo",
+  "block.cratedelight-port.golden_apple_crate": "Orkasta Pomo Krato",
+
+  "block.cratedelight-port.end_fish_crate": "Kruda Fina Fiŝo-Kaĝo",
+  "block.cratedelight-port.duck_egg_crate": "Kajuto de Anasa Ovo",
+  "block.cratedelight-port.catfish_crate": "Kruda Kato-Fiŝo-Kaĝo",
+  "block.cratedelight-port.bass_crate": "Kruda Bas-Fiŝo-Kaĝo",
+  "block.cratedelight-port.peanut_crate": "Kaĝo de Arostaĵo",
+  "block.cratedelight-port.wheat_flour_bag": "Sako de Tricumfaruno",
+  "block.cratedelight-port.ender_dust_bag": "Sako de Enderpolvo",
+  "block.cratedelight-port.powdered_obsidian_bag": "Sako de Pulverigita Obsidiano",
+  "block.cratedelight-port.cinder_flour_bag": "Sako de Cindrofaruno",
+  "block.cratedelight-port.blueberry_crate": "Blua Berujo",
+  "block.cratedelight-port.red_mushroom_crate": "Ruĝa Fungo-Kaŝujo",
+  "block.cratedelight-port.brown_mushroom_crate": "Bruna Fungo-Kaŝujo",
+
+  "block.cratedelight-port.emu_egg_crate": "Kesto kun emuaj ovoj",
+  "block.cratedelight-port.terrapin_egg_crate": "Kesto kun testudaj ovoj",
+  "block.cratedelight-port.crocodile_egg_crate": "Kesto kun krokodilaj ovoj",
+  "block.cratedelight-port.caiman_egg_crate": "Kesto kun kajmanaj ovoj",
+  "block.cratedelight-port.platypus_egg_crate": "Kesto kun ornitorinkaj ovoj",
+  "block.cratedelight-port.banana_crate": "Kesto kun bananoj",
+  "block.cratedelight-port.golden_carrot_crate": "Kesto kun oraj karotoj",
+  "block.cratedelight-port.kiwi_egg_crate": "Kesto de Kiwi-ovoj",
+  "block.cratedelight-port.kiwifruit_crate": "Kesto de Kivifruktoj",
+
+  "block.cratedelight-port.carrot_crate": "Karota kesto",
+  "block.cratedelight-port.potato_crate": "Terpoma kesto",
+  "block.cratedelight-port.beetroot_crate": "Bete kuŝejo",
+
+  "block.cratedelight-port.black_berry_crate": "Nigra Berujo",
+  "block.cratedelight-port.green_berry_crate": "Verda Berujo",
+  "block.cratedelight-port.orange_berry_crate": "Oranĝa Berujo",
+  "block.cratedelight-port.yellow_berry_crate": "Flava Berujo",
+  "block.cratedelight-port.purple_berry_crate": "Purpura Berujo",
+
+  "block.cratedelight-port.cookie_bag": "Biskvita Sako",
+
+  "block.cratedelight-port.diamond_apple_crate": "Diamanta Pomujo",
+
+  "itemGroup.cratedelight-port": "Crate Delight"
+}

@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "cratedelight-port",
+	"version": "${version}",
+	"name": "CrateDelight Port",
+	"description": "Useful crates and bags that will save you storage and look great.",
+	"authors": [
+		"Sun_Phoen1x"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/cratedelight-port/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.phoen1x.CrateDelightPort"
+		],
+		"fabric-datagen": [
+			"com.phoen1x.CrateDelightPortDataGenerator"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.6",
+		"java": ">=21",
+		"fabric-api": "*",
+		"polymer-core": ">=0.13.3",
+		"polymer-resource-pack": ">=0.13.3",
+		"polymer-virtual-entity": ">=0.13.3"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

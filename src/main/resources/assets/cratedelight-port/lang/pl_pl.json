@@ -1,0 +1,53 @@
+{
+  "block.cratedelight-port.apple_crate": "Skrzynia z jabłkami",
+  "block.cratedelight-port.berry_crate": "Skrzynia z jagodami",
+  "block.cratedelight-port.glowberry_crate": "Skrzynia ze świecącymi jagodami",
+  "block.cratedelight-port.egg_crate": "Skrzynia z jajami",
+  "block.cratedelight-port.salmon_crate": "Skrzynia z surowym łososiem",
+  "block.cratedelight-port.cod_crate": "Skrzynia z surowym dorszem",
+  "block.cratedelight-port.cocoabeans_bag": "Worek z ziarnami kakaowca",
+  "block.cratedelight-port.sugar_bag": "Worek z cukrem",
+  "block.cratedelight-port.salt_bag": "Worek z solą",
+  "block.cratedelight-port.gunpowder_bag": "Torba z prochem strzelniczym",
+  "block.cratedelight-port.ground_cinnamon_bag": "Worek z mielonego cynamonu",
+  "block.cratedelight-port.golden_apple_crate": "Złoty skrzyniowy jabłko",
+
+  "block.cratedelight-port.end_fish_crate": "Surowa Klatka Ryb Końcowych",
+  "block.cratedelight-port.duck_egg_crate": "Klatka Kaczego Jaja",
+  "block.cratedelight-port.catfish_crate": "Surowa Klatka Suma",
+  "block.cratedelight-port.bass_crate": "Surowa Klatka Okonia",
+  "block.cratedelight-port.peanut_crate": "Klatka Orzeszków Erdnuss",
+  "block.cratedelight-port.wheat_flour_bag": "Worek Mąki Pszennej",
+  "block.cratedelight-port.ender_dust_bag": "Worek Pyłu Enderowego",
+  "block.cratedelight-port.powdered_obsidian_bag": "Worek Proszku Obsydianowego",
+  "block.cratedelight-port.cinder_flour_bag": "Worek Proszku Popiołu",
+  "block.cratedelight-port.blueberry_crate": "Skrzynka z Borówkami",
+  "block.cratedelight-port.red_mushroom_crate": "Czerwone skrzynki grzybów",
+  "block.cratedelight-port.brown_mushroom_crate": "Brązowe skrzynki grzybów",
+
+  "block.cratedelight-port.emu_egg_crate": "Skrzynia z jajami emu",
+  "block.cratedelight-port.terrapin_egg_crate": "Skrzynia z jajami żółwia",
+  "block.cratedelight-port.crocodile_egg_crate": "Skrzynia z jajami krokodyla",
+  "block.cratedelight-port.caiman_egg_crate": "Skrzynia z jajami kajmana",
+  "block.cratedelight-port.platypus_egg_crate": "Skrzynia z jajami dziobaka",
+  "block.cratedelight-port.banana_crate": "Skrzynia z bananami",
+  "block.cratedelight-port.golden_carrot_crate": "Skrzynia ze złotymi marchewkami",
+  "block.cratedelight-port.kiwi_egg_crate": "Skrzynka z jajkami kiwi",
+  "block.cratedelight-port.kiwifruit_crate": "Skrzynka z kiwi",
+
+  "block.cratedelight-port.carrot_crate": "Skrzynia marchewek",
+  "block.cratedelight-port.potato_crate": "Skrzynia ziemniaków",
+  "block.cratedelight-port.beetroot_crate": "Skrzynia buraków",
+
+  "block.cratedelight-port.black_berry_crate": "Skrzynia z czarnymi jagodami",
+  "block.cratedelight-port.green_berry_crate": "Skrzynia z zielonymi jagodami",
+  "block.cratedelight-port.orange_berry_crate": "Skrzynia z pomarańczowymi jagodami",
+  "block.cratedelight-port.yellow_berry_crate": "Skrzynia z żółtymi jagodami",
+  "block.cratedelight-port.purple_berry_crate": "Skrzynia z fioletowymi jagodami",
+
+  "block.cratedelight-port.cookie_bag": "Torba na Ciasteczka",
+
+  "block.cratedelight-port.diamond_apple_crate": "Skrzynia Diamentowych Jabłek",
+
+  "itemGroup.cratedelight-port": "Crate Delight"
+}

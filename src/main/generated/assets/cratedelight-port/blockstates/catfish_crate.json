@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "cratedelight-port:block/catfish_crate"
+    }
+  }
+}

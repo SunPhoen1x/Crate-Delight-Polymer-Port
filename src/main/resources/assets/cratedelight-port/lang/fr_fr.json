@@ -1,0 +1,53 @@
+{
+  "block.cratedelight-port.apple_crate": "Caisse de Pommes",
+  "block.cratedelight-port.berry_crate": "Caisse de Baies",
+  "block.cratedelight-port.glowberry_crate": "Caisse de Baies Lumineuses",
+  "block.cratedelight-port.egg_crate": "Caisse à Œufs",
+  "block.cratedelight-port.salmon_crate": "Caisse de Saumon Cru",
+  "block.cratedelight-port.cod_crate": "Caisse de Morue crue",
+  "block.cratedelight-port.cocoabeans_bag": "Sac de Fèves de Cacao",
+  "block.cratedelight-port.sugar_bag": "Sac de Sucre",
+  "block.cratedelight-port.salt_bag": "Sac de Sel",
+  "block.cratedelight-port.gunpowder_bag": "Sac de Poudre à Canon",
+  "block.cratedelight-port.ground_cinnamon_bag": "Sac de Cannelle Moulue",
+  "block.cratedelight-port.golden_apple_crate": "Caisse de Pommes d'or",
+
+  "block.cratedelight-port.end_fish_crate": "Caisse de Poisson de l'End brut",
+  "block.cratedelight-port.duck_egg_crate": "Caisse d'Œufs de Canard",
+  "block.cratedelight-port.catfish_crate": "Caisse de Poisson-Chat brut",
+  "block.cratedelight-port.bass_crate": "Caisse de Bar brut",
+  "block.cratedelight-port.peanut_crate": "Caisse de Cacahuètes",
+  "block.cratedelight-port.wheat_flour_bag": "Sac de Farine de Blé",
+  "block.cratedelight-port.ender_dust_bag": "Sac de Poussière d'Ender",
+  "block.cratedelight-port.powdered_obsidian_bag": "Sac de Poudre d'Obsidienne",
+  "block.cratedelight-port.cinder_flour_bag": "Sac de Farine de Cendre",
+  "block.cratedelight-port.blueberry_crate": "Caisse de Bleuets",
+  "block.cratedelight-port.red_mushroom_crate": "Caisse de Champignons Rouges",
+  "block.cratedelight-port.brown_mushroom_crate": "Caisse de Champignons Bruns",
+
+  "block.cratedelight-port.emu_egg_crate": "Caisse d'œufs d'émeu",
+  "block.cratedelight-port.terrapin_egg_crate": "Caisse d'œufs de tortue",
+  "block.cratedelight-port.crocodile_egg_crate": "Caisse d'œufs de crocodile",
+  "block.cratedelight-port.caiman_egg_crate": "Caisse d'œufs de caïman",
+  "block.cratedelight-port.platypus_egg_crate": "Caisse d'œufs d'ornithorynque",
+  "block.cratedelight-port.banana_crate": "Caisse de bananes",
+  "block.cratedelight-port.golden_carrot_crate": "Caisse de carottes dorées",
+  "block.cratedelight-port.kiwi_egg_crate": "Caisse d'œufs de kiwi",
+  "block.cratedelight-port.kiwifruit_crate": "Caisse de kiwis",
+
+  "block.cratedelight-port.carrot_crate": "Caisse de carottes",
+  "block.cratedelight-port.potato_crate": "Caisse de pommes de terre",
+  "block.cratedelight-port.beetroot_crate": "Caisse de betteraves",
+
+  "block.cratedelight-port.black_berry_crate": "Caisse de baies noires",
+  "block.cratedelight-port.green_berry_crate": "Caisse de baies vertes",
+  "block.cratedelight-port.orange_berry_crate": "Caisse de baies oranges",
+  "block.cratedelight-port.yellow_berry_crate": "Caisse de baies jaunes",
+  "block.cratedelight-port.purple_berry_crate": "Caisse de baies violettes",
+
+  "block.cratedelight-port.cookie_bag": "Sac de Biscuits",
+
+  "block.cratedelight-port.diamond_apple_crate": "Caisse de Pommes en Diamant",
+
+  "itemGroup.cratedelight-port": "Crate Delight"
+}

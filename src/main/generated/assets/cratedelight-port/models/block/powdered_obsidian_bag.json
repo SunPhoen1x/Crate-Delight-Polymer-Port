@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "cratedelight-port:block/crate_bottom",
+    "east": "cratedelight-port:block/powdered_obsidian_bag_side",
+    "north": "cratedelight-port:block/powdered_obsidian_bag_side",
+    "particle": "cratedelight-port:block/powdered_obsidian_bag_side",
+    "south": "cratedelight-port:block/powdered_obsidian_bag_side",
+    "up": "cratedelight-port:block/powdered_obsidian_bag_top",
+    "west": "cratedelight-port:block/powdered_obsidian_bag_side"
+  }
+}
